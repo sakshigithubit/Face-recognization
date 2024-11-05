@@ -1,7 +1,5 @@
 # Face Recognition Project
 
-![Face Recognition](https://example.com/your-image.png) <!-- Optional: Add an image related to your project -->
-
 ## Overview
 
 This project implements a face recognition system using the `face_recognition` library and the K-Nearest Neighbors (KNN) algorithm. The system can recognize faces from images and in real-time using a webcam. The project leverages machine learning techniques to encode faces and predict identities based on a dataset of labeled images.
